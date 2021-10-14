@@ -1,0 +1,5 @@
+A   B   C
+Maschio 1,70    60
+Femmina 1,50    70
+Maschio 1,10    65
+Femmina 1,80    70
